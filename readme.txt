@@ -1,9 +1,5 @@
-Online Food Ordering System
+XAMPP
 
-Requirements:
-1.XAMPP
-
-**LOGIN DETAILS** 
 Admin
 user: admin
 pass: admin123
